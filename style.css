@@ -1,0 +1,86 @@
+html
+{
+  display: flex;
+  height: 100%;
+}
+
+.contener1
+{
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: row;
+  margin: 10px;
+}
+
+.contener12
+{
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: row;
+  margin: 10px;
+}
+
+.contener2
+{
+  display: flex;
+  justify-content: center;
+}
+
+.contener3
+{
+  display: flex;
+  justify-content: center;
+  height: 30px;
+  border-radius: 12px;
+}
+
+.contener4
+{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  margin: 10px;
+}
+
+.contener5
+{
+  display: flex;
+  background-color: rgb(242, 242, 242);
+  align-content: flex-end;
+}
+
+.contener6
+{
+  display: flex;
+  background-color: rgb(242, 242, 242);
+  justify-content: space-around;
+  flex-direction: row;
+  align-content: flex-end;
+  height: 200px
+}
+
+body
+{
+	color: grey;
+	margin-left: 
+	margin-right: 
+	margin-top: 50px;
+	background-color: 
+	line-height:1.4;
+  width: 100%;
+}
+
+footer
+{
+  background-color: rgb(242, 242, 242);
+}
+
+.espace1
+{
+   height: 20px;
+}
+
+.espace2
+{
+   height: 100px;
+}
